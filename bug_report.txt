@@ -1,1 +1,2 @@
-
+title - img is not loading on the main page
+severity - critical
